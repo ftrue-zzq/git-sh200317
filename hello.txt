@@ -6,7 +6,7 @@ hello git! hello atguigu!
 hello git! hello atguigu!   ################
 hello git! hello atguigu!
 hello git! hello atguigu! 我是最帅的，比张鹏还帅！！！！
-hello git! hello atguigu!
+hello git! hello atguigu! 张鹏比里奇帅！
 hello git! hello atguigu!
 hello git! hello atguigu!  master test
 hello git! hello atguigu!  hot-fix test
